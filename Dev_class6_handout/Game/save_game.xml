@@ -1,0 +1,13 @@
+<!-- Save game for the game -->
+
+<game_state>
+
+  <audio>
+    <volume value="64"/>
+  </audio>
+
+  <renderer>
+    <camera x="100" y="0"/>
+  </renderer>
+
+</game_state>
